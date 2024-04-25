@@ -1,2 +1,1 @@
-"# Calculator" 
-"# Calculator" 
+Calculator with an inquirer function
